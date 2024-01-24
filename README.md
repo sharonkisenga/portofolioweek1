@@ -1,7 +1,8 @@
 # PORTOFOLIOWEEK1
 INTRODUCTION: as student A portfolio is a systematic collection of student work that represents student activities, accomplishments, and achievements over a specific period of time in one or more areas of the curriculum. There are two main types of portfolios: Showcase Portfolios: Students select and submit their best work.
 ##
-CHALLENGES: lack of communication I work alone on this project.
+CHALLENGES: lack of communication I encounter problems such as resistance, non-completion and difficulties with evaluating the portfolio and assessing the evidence. Similar problems were experienced in an initiative 
+.
 ##
 
 
