@@ -1,0 +1,57 @@
+<!DOCTYPE <html>
+
+<head>
+        <title>shadai</title>
+
+    <link rel="stylesheet" type="text/css" href="assets/css/style.css">
+
+
+</head>
+
+
+<body>
+
+    <div class="head">
+        <div class="name">
+            <h2>shadai</h2>
+        </div>
+
+
+        <div class="related-links">
+            <nav>
+                <a href="../week1-HW-portfolio/index.html">About</a> |
+                <a href="../week1-HW-portfolio/contact.html">Contact</a> |
+                <a href="../week1-HW-portfolio/portfolio.html">Portfolio</a>
+            </nav>
+        </div>
+    </div>
+
+
+    <div class="main-area">
+
+        <div class="about-me">
+             <h1>About Me</h1>
+        </div>
+
+
+        <div class="headshot">
+            <img src="../week1-HW-portfolio/assets/Images/IMG_20190714_184339 (1).jpg"
+                alt="My face">
+        </div>
+
+
+        <p>
+        </p>
+
+    </div>
+
+    <div class="Copyright">
+            Copyright
+          </div>
+          <footer class="foooter"></footer>
+
+</body>
+
+
+
+</html>

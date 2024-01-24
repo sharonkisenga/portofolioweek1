@@ -1,0 +1,65 @@
+<!DOCTYPE <html>
+
+<head>
+
+        <title>shadai</title>
+
+    <link rel="stylesheet" type="text/css" href="assets/css/style.css">
+
+
+
+</head>
+
+<body>
+    <div class="head">
+        <div class="name">
+            <h2>Marie Lenac</h2>
+        </div>
+
+
+        <div class="related-links">
+            <nav>
+                <a href="../week1-HW-portfolio/index.html">About</a> |
+                <a href="../week1-HW-portfolio/contact.html">Contact</a> |
+                <a href="../week1-HW-portfolio/portfolio.html">Portfolio</a>
+            </nav>
+        </div>
+    </div>
+
+    <div class="main-area">
+        <div class="project-parent">
+            <div class="project1">
+                </a>
+            </div>
+            <div class="project2">
+                </a>
+            </div>
+                </a>
+            </div>
+            <div class="project2">
+                </a>
+            </div>
+            <div class="project">
+                        style="width:250px;height:250px;border:5px;">
+                </a>
+            </div>
+            <div class="project1">
+                <div class="container">
+                            alt="My GitHub" style="width:250px;height:250px;border:5px;">
+                    </a>
+                    <div class="text-block">
+                        <h4>shadai</h4> 
+                </div>
+            </div>
+
+        </div>
+    </div>
+
+    </div>
+
+    <div class="copyright">
+        Copyright
+    </div>
+    <footer class="foooter"></footer>
+
+</body>
